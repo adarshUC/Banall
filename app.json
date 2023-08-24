@@ -3,7 +3,7 @@
     "description": "Power Packed Banall Within Seconds.",
     "keywords": ["Zaid", "banall"],
     "repository": "https://github.com/ITZ-ZAID/Banall",
-  "stack": "container",
+  "stack": "heroku-22",
     "env": {
         "TELEGRAM_TOKEN": {
             "description": "Bot Token Else leave blank",
